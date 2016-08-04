@@ -1,0 +1,19 @@
+/* ==========================================================================
+   Settings
+   ========================================================================== */
+
+:root {
+
+  /* Color */
+  --lunt-color-white: hsl(0,100%,100%);
+  --lunt-color-black: hsl(0,0%,0%);
+
+  /* Base */
+  --lunt-base-background: var(--lunt-color-white);
+  --lunt-base-color: hsl(0, 0%, 10%);
+  --lunt-base-font-family: sans-serif;
+  --lunt-base-font-size: 1rem;
+  --lunt-base-font-weight: normal;
+  --lunt-base-line-height: 1.5;
+
+}
