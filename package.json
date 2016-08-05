@@ -1,0 +1,25 @@
+{
+  "name": "lunt-settings",
+  "version": "0.0.1",
+  "description": "Default global settings for the Lunt framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidcazalis/lunt-settings.git"
+  },
+  "keywords": [
+    "lunt",
+    "css",
+    "framework",
+    "settings"
+  ],
+  "author": "David Cazalis <davidcazalis@gmail.com> (http://www.davidcazalis.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidcazalis/lunt-settings/issues"
+  },
+  "homepage": "https://github.com/davidcazalis/lunt-settings#readme"
+}
